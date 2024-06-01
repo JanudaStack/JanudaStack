@@ -11,11 +11,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p><img width="520" height="225" src="https://github-readme-stats.vercel.app/api?username=Januda-A03&theme=tokyonight&show_icons=true/460/300"> </p>
+<p><img width="520" height="225" src="https://github-readme-stats.vercel.app/api?username=JanudaBTW&theme=tokyonight&show_icons=true/460/300"> </p>
 
 <p><img width="550" height="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=JanudaBTW&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"> </p>
 
-<p><img width="550" height="225" src="https://github-readme-streak-stats.herokuapp.com/?user=Januda-A03&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<p><img width="550" height="225" src="https://github-readme-streak-stats.herokuapp.com/?user=JanudaBTW&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/> </a> </a> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
