@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, SpringBoot, MongoDB, AJAX, JSON.**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b align="center">Github Stats</b>
 
 <p><img width="520" height="225" src="https://github-readme-stats.vercel.app/api?username=JanudaBTW&theme=tokyonight&show_icons=true/460/300"> </p>
 
@@ -22,6 +22,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/januda-amaneth-094124288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/januda-amaneth-094124288/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22305071/januda-amaneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22305071/januda-amaneth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/januda-amaneth-094124288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/januda-amaneth-094124288/" height="30" width="40" /></a>
 </p>
