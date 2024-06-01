@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Januda Amaneth</h1>
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=JanudaAmaneth&label=Profile%20views&color=0e75b6&style=flat" alt="JanudaAmaneth" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JanudaBTW&label=Profile%20views&color=0e75b6&style=flat" alt="JanudaBTW" /> </p>
 
 - 🌱 I’m currently learning **MEAN**
 
@@ -13,7 +13,7 @@
 
 <p><img width="520" height="225" src="https://github-readme-stats.vercel.app/api?username=Januda-A03&theme=tokyonight&show_icons=true/460/300"> </p>
 
-<p><img width="550" height="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=Januda-A03&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"> </p>
+<p><img width="550" height="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=JanudaBTW&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"> </p>
 
 <p><img width="550" height="225" src="https://github-readme-streak-stats.herokuapp.com/?user=Januda-A03&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
