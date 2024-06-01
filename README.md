@@ -24,13 +24,13 @@
 </tr>
 </table>
   
-## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> Github Stats </b> </p>
+## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> My Github Stats: </b> </p>
 
 <p align="center"><img width="520" height="225" src="https://github-readme-stats.vercel.app/api?username=JanudaBTW&theme=tokyonight&show_icons=true/460/300"> </p>
 
-<p align="center"><img width="550" height="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=JanudaBTW&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"> </p>
+<p align="center"><img width="520" height="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=JanudaBTW&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"> </p>
 
-<p align="center"><img width="550" height="225" src="https://github-readme-streak-stats.herokuapp.com/?user=JanudaBTW&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
+<p align="center"><img width="520" height="225" src="https://github-readme-streak-stats.herokuapp.com/?user=JanudaBTW&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <hr></hr>
 
