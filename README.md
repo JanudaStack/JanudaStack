@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **MEAN**
 
-- 🎓 I’m an Undergraduate at **UCSC**
+- 🎓 I’m an undergraduate at **UCSC**
 
 - 💬 Ask me about **Java, SpringBoot, MongoDB, AJAX, JSON, etc.**
 
