@@ -42,7 +42,7 @@
 <h3 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect with me: </h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/22305071/januda-amaneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22305071/januda-amaneth" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/januda-amaneth-094124288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/januda-amaneth-094124288/" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/januda-amaneth-094124288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/januda-amaneth-094124288/" height="40" width="50" /></a>
 </p>
 
 <hr></hr>
