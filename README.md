@@ -13,7 +13,6 @@
 
 - 🎓 I’m an undergraduate at **UCSC**
 
-- 💬 Ask me about **Java, SpringBoot, MongoDB, AJAX, JSON, etc.**
 
 </td>
 <td width="50%" align="center">
