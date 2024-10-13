@@ -1,47 +1,41 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+![👋 Hi, I'm Januda Amāneth](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<h1 align="center"> Hello 👋, I'm Januda Amaneth </h1>
-<h3 align="center"> A passionate IT Student </h3>
+![Profile views](https://komarev.com/ghpvc/?username=janudaio&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janudaio&label=Profile%20views&color=0e75b6&style=flat" alt="janudaio" /> </p>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, I'm Januda Amāneth
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **MEAN**
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://github.com/janudaio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/januda-amaneth-094124288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/YogurtSignal6461" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white" height="32" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/heavy_rats_89" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=plastic&&logo=Codechef&logoColor=white" height="32" style="margin-right: 4px"></a></p>
 
-- 🎓 I’m an undergraduate at **UCSC**
+ **<h3 align="center">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
+**<h3 align="left">Rapid Fire</h3>**
 
-</td>
-<td width="50%" align="center">
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
+- 🌱 I'm currently learning: **📚 MEAN, React, Springboot**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
-  <img height="300" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-  
-  </td>
-</tr>
-</table>
-  
-## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> My Github Stats: </b> </p>
+ **<h3 align="center">Skills</h3>**
 
-<p align="center"><img width="520" height="225" src="https://github-readme-stats.vercel.app/api?username=janudaio&theme=tokyonight&show_icons=true/460/300"> </p>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;"><img src="https://skillicons.dev/icons?i=javascript" height="44" alt="JavaScript" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=typescript" height="44" alt="TypeScript" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=java" height="44" alt="Java" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=react" height="44" alt="React" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=angular" height="44" alt="Angular" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=materialui" height="44" alt="Material UI" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="44" alt="Bootstrap" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="Node.js" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=express" height="44" alt="Express" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=spring" height="44" alt="Spring" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" style="margin-right: 8px"> <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="MongoDB" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" alt="Sass" style="margin-right: 8px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="44" alt="Less" style="margin-right: 8px"></div>
 
-<p align="center"><img width="520" height="225" src="https://github-readme-stats.vercel.app/api/top-langs?username=janudaio&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"> </p>
+ **<h3 align="left">GitHub Stats</h3>**
 
-<p align="center"><img width="520" height="225" src="https://github-readme-streak-stats.herokuapp.com/?user=janudaio&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
-<hr></hr>
-
-<h3 align="center"><img src = 'https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' top=10px width = 25px> &nbsp; Languages and Tools: </h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular" width="50" height="50"/> </a> </a> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="50" height="50"/> </a> </p>
-
-<hr></hr>
-
-<h3 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Connect with me: </h3>
-<p align="center">
-<a href="https://stackoverflow.com/users/22305071/januda-amaneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22305071/januda-amaneth" height="40" width="50" /></a>
-<a href="https://www.linkedin.com/in/januda-amaneth-094124288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/januda-amaneth-094124288/" height="40" width="50" /></a>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janudaio&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=janudaio&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
 
-<hr></hr>
+<p align="left">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=janudaio&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+</p>
+
