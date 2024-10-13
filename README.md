@@ -23,7 +23,6 @@
 
 - 🌱 I'm currently learning: **📚 MEAN, React, Springboot**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-<! - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!** -->
 
 <hr></hr>
 
