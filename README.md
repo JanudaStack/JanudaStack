@@ -36,7 +36,7 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="20" style="vertical-align: middle;"> <b> My Github Stats: </b> </h3>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janudaio&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=30" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janudaio&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=28" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=janudaio&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_height=170&hide_progress=false" alt="GitHub top-langs Card" /> 
 </p>
 
