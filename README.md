@@ -1,6 +1,6 @@
 ![👋 Hi, I'm Januda Amāneth](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=janudaio&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=janudaio&label=Profile%20views&color=0e75b6&style=flat" alt="janudaio" /> </p>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -8,6 +8,7 @@
       <h1>
         👋 Hi, I'm Januda Amāneth
       </h1>
+
     </summary>
   </ul>
 </div>
