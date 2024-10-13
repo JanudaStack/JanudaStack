@@ -27,13 +27,13 @@
 
 <hr></hr>
 
- <h3 align="center"><img src = 'https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' top=10px width = 25px> &nbsp; Languages and Tools: </h3>
+ <h3 align="center"><img src = 'https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif' top=10px height="20" style="vertical-align: middle;> &nbsp; Languages and Tools: </h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;"><img src="https://skillicons.dev/icons?i=javascript" height="44" alt="JavaScript" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=typescript" height="44" alt="TypeScript" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=java" height="44" alt="Java" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=react" height="44" alt="React" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=angular" height="44" alt="Angular" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="Tailwind CSS" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=threejs" height="44" alt="Threejs" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="Nextjs" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=materialui" height="44" alt="Material UI" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=sass" height="44" alt="Sass" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="44" alt="Bootstrap" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=nodejs" height="44" alt="Node.js" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=express" height="44" alt="Express" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=spring" height="44" alt="Spring" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="MongoDB" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="44" alt="Less" style="margin-right: 12px"></div>
 
 <hr></hr>
 
- <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b> My Github Stats: </b> </p>
+ <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="20" style="vertical-align: middle;> <b> My Github Stats: </b> </p>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janudaio&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
