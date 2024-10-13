@@ -4,12 +4,11 @@
 
 <div id="toc">
   <ul align="center" style="list-style: none">
-    
+    <summary>
       <h1>
-        👋 Hi, I'm Januda Amāneth
+        👋 Hi, I'm Januda Amaneth
       </h1>
-
-  
+    </summary>
   </ul>
 </div>
 
