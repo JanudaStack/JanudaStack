@@ -1,4 +1,4 @@
-![👋 Hi, I'm Januda Amāneth](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![👋 Hi, I'm Januda Amaneth](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=janudaio&label=Profile%20views&color=0e75b6&style=flat" alt="janudaio" /> </p>
 
@@ -15,7 +15,7 @@
 <h3 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="Handshake Icon" height="20" style="vertical-align: middle;"> Connect with me: </h3>
 <p align="center"><a href="https://github.com/janudaio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/januda-amaneth-094124288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/YogurtSignal6461" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/heavy_rats_89" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=plastic&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">🚀 Passionate full-stack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="center">🚀 Passionate web developer, creating robust and scalable web applications. Experienced in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
  
 <hr></hr>
 
