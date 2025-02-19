@@ -1,6 +1,6 @@
 ![👋 Hi, I'm Januda Amaneth](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=janudaio&label=Profile%20views&color=0e75b6&style=flat" alt="janudaio" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JanudaStack&label=Profile%20views&color=0e75b6&style=flat" alt="JanudaStack" /> </p>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -13,7 +13,7 @@
 </div>
 
 <h3 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="Handshake Icon" height="20" style="vertical-align: middle;"> Connect with me: </h3>
-<p align="center"><a href="https://github.com/janudaio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/januda-amaneth-094124288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/YogurtSignal6461" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/heavy_rats_89" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=plastic&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center"><a href="https://github.com/JanudaStack" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/januda-amaneth-094124288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.reddit.com/user/YogurtSignal6461" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=plastic&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.codechef.com/users/heavy_rats_89" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?style=plastic&&logo=Codechef&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="center">🚀 Passionate web developer, creating robust and scalable web applications. Experienced in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
  
@@ -35,12 +35,12 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="20" style="vertical-align: middle;"> <b> My Github Stats: </b> </h3>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janudaio&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=29" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=janudaio&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_height=170&hide_progress=false" alt="GitHub top-langs Card" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JanudaStack&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=29" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JanudaStack&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_height=170&hide_progress=false" alt="GitHub top-langs Card" /> 
 </p>
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=janudaio&theme=tokyonight&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=207" alt="GitHub streak Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=JanudaStack&theme=tokyonight&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=207" alt="GitHub streak Card" />
 </p>
 
 
