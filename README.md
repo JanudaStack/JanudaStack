@@ -22,7 +22,7 @@
 **<h3 align="left">About me</h3>**
 
 - 🌱 I'm currently learning: **📚 MERN, Java, Springboot**
-- <!-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs** -->
+<!-- -  💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs** -->
 
 <hr></hr>
 
@@ -33,6 +33,7 @@
 <hr></hr>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="20" style="vertical-align: middle;"> <b> My Github Stats: </b> </h3>
+
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JanudaStack&theme=tokyonight&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=29" alt="GitHub stats Card" />
