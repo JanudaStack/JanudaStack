@@ -22,7 +22,7 @@
 **<h3 align="left">About me</h3>**
 
 - 🌱 I'm currently learning: **📚 MERN, Java, Springboot**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
+- <!-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs** -->
 
 <hr></hr>
 
